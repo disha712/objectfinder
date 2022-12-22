@@ -1,0 +1,16 @@
+#start_button{
+    font-size:20px;
+    border-color:red;
+    color:rgb(255, 255, 255);
+}
+#type{
+    box-shadow:3px 3px 3px grey;
+}
+canvas{
+    box-shadow:3px 3px 3px grey;
+    border-radius:20px;
+    margin-top:130px;
+}
+body{
+    background-size:cover;
+}
